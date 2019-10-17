@@ -1,0 +1,33 @@
+
+
+    body {
+    background-color: rgb(240, 243, 247);
+    margin: 0 auto;
+  }
+  header {
+    background-color: #b1f1bf;
+    border-bottom: 1px solid #72da88;
+    position: fixed;
+    width: 100%;
+    
+    z-index:1;
+  } 
+  article {
+    background-color: rgb(240, 243, 247);
+    margin: 0 auto;
+    position: relative;
+    top: 400px;
+  }
+
+  .boxes {
+    display: inline-block;
+    
+  }
+  #intro{
+      float: left;
+      align-items: center;
+  }
+  #imgIntro{
+      float: right;
+      size: 80%;
+  }
